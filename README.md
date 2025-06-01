@@ -7,3 +7,5 @@
 [基本的な型](https://tourofrust.com/05_ja.html)
 
 [基本型の変換](https://tourofrust.com/06_ja.html)
+
+[定数](https://tourofrust.com/07_ja.html)
