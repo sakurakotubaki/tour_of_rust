@@ -8,4 +8,6 @@
 
 [基本型の変換](https://tourofrust.com/06_ja.html)
 
+[as](https://tourofrust.com/06_ja.html)
+
 [定数](https://tourofrust.com/07_ja.html)
